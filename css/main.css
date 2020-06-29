@@ -7,6 +7,10 @@ a:hover {
 	text-decoration:none;
 }
 
+a.menu-item {
+	text-decoration:none;
+}
+
 /* customizing by ASQ */
 body {
 	font-size: 2.3em;
